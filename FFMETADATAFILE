@@ -1,0 +1,23 @@
+;FFMETADATA1
+COMPATIBLE_BRANDS=isommp42
+MAJOR_BRAND=mp42
+MINOR_VERSION=0
+encoder=Lavf60.16.100
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=435000
+END=500999
+title=Some station name test Saturday, 09. December 2023 05:37:15:PM 
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=501000
+END=503999
+title=Some station name test Saturday, 09. December 2023 05:38:21:PM 
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=504000
+END=1065451.0
+title=Some station name test Saturday, 09. December 2023 05:38:24:PM 
